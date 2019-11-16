@@ -1,0 +1,88 @@
+/*
+Theme Name: Rapid
+Theme URI: https://nextaussie.com/
+Author: Suresh Paudel
+Author URI: https://sureshpaudel.com.np/
+Description: This wordpress theme is developed for Rapid Services by the developer team of Next aussie Tech.
+Version: 1.0
+Text Domain:Rapid
+Tags: rapid,service,plumbing.
+*/
+img.custom-logo{
+  width: auto;
+    max-width: 100%;
+    max-height: 60px;
+}
+.wpcf7-validates-as-required{
+  color: #596570;
+
+}
+.wpcf7-textarea{
+  height: 100px!important;
+}
+.wpcf7-submit{
+  background-color: #f07b23;
+  color: #fff;
+  padding: 6px 35px;
+}
+.wpcf7-submit:hover{
+  background-color: gray;
+  border-radius: 10%;
+}
+.screen-reader-text{
+  display: none;
+}
+#searchsubmit{
+  background-color: #f07b23;
+  color: #fff;
+}
+#searchsubmit:hover{
+  background-color: gray;
+  border-radius: 10%;
+}
+.rpwwt-post-title{
+  color: #777777;
+}
+.rpwwt-post-title:hover{
+  color: #f07b23!important;
+}
+.btn-default{
+  background-color: #f07b23!important;
+  color: #fff !important;
+  padding: 13px!important;
+}s
+.btn-default:hover{
+  background-color: gray !important;
+  border-radius: 10%!important;
+}
+.page-numbers{
+  background-color: #f07b23!important;
+    border-color: #f07b23 !important;
+    color: #fff!important;
+    width: 40px!important;
+    height: 40px !important;
+    margin-top: 30px !important;
+    border-top-left-radius: 4px!important;
+    border-bottom-left-radius: 4px !important;
+    padding: 10px!important;
+}
+.pagenate{
+  padding-top: 40px!important;
+}
+.shelter-search{
+  margin-bottom: 20px!important;
+}
+.search-btn{
+  padding-left: 10px!important;
+  padding-right: 10px!important;
+  background-color: #f07b23!important;
+  color: #fff!important;
+  
+}
+.searchform{
+  color: #f07b23!important;
+}
+#s{
+    width: 295px !important;
+    border-color: #f07b23!important;
+}
